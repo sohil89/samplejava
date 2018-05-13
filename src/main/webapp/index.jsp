@@ -1,10 +1,10 @@
 <html>
 <head>
 <title>
-Hello Java
+Hello Python
 </title>
 </head>
 <body>
-<center> <h1> Hello Java </h1> </center>
+<center> <h1> Hello Python </h1> </center>
 </body>
 </html>
