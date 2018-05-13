@@ -1,10 +1,10 @@
 <html>
 <head>
 <title>
-Hello Python
+Hello Ruby
 </title>
 </head>
 <body>
-<center> <h1> Hello Python </h1> </center>
+<center> <h1> Hello Ruby </h1> </center>
 </body>
 </html>
